@@ -43,9 +43,8 @@ a{
   display: flex;
   width: 100%;
 
-  .auth-link{
-    cursor: pointer;
-  }
+
+
 
 .brand {
   width: 50%;
@@ -294,6 +293,11 @@ color: white;
 /*   login page*/
 
 .login-wrapper{
+
+  .auth-link{
+    cursor: pointer;
+  }
+
 
   display: flex;
   width: 100%;
